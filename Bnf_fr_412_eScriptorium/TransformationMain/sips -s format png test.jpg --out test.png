@@ -1,0 +1,3 @@
+sips -s format png test.jpg --out test.png
+
+for tiff in ./*.tiff; do sips -s format jpg $tiff --out $tiff.jpg; done

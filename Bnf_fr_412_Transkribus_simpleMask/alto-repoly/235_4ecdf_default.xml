@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>235_4ecdf_default.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="3796"
+          HEIGHT="5650"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3796"
+                  HEIGHT="5650">
+        
+        <TextBlock HPOS="994"
+                   VPOS="168"
+                   WIDTH="1400"
+                   HEIGHT="5166"
+                   ID="TextRegion_1636107365351_699"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="994 168 2394 168 2394 5334 994 5334"/></Shape>
+          
+          
+          <TextLine ID="r4l4"
+                    
+                    BASELINE="1082 608 1136 606 1191 606 1245 604 1300 604 1355 602 1409 600 1464 600 1518 598 1573 597 1628 596 1682 594 1737 593 1791 592 1846 590 1901 588 1955 587 2010 586 2064 584 2119 582 2174 580" 
+                    HPOS="1069"
+                    VPOS="447"
+                    WIDTH="1102"
+                    HEIGHT="188">
+            <Shape><Polygon POINTS="1073 569 1069 513 1266 513 1365 480 1412 494 1478 447 1629 447 1695 508 1836 494 1869 466 1940 503 2025 470 2095 489 2166 466 2171 541 2166 597 1879 593 1624 626 1516 626 1478 602 1417 630 1271 630 1219 607 1186 630 1073 635"/></Shape>
+	    <String CONTENT="tenoit son chief Acline seur le seint au"
+                    HPOS="1069"
+                    VPOS="447"
+                    WIDTH="1102"
+                    HEIGHT="188"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l6"
+                    
+                    BASELINE="1066 694 1121 694 1176 694 1232 694 1287 694 1343 694 1398 692 1453 692 1509 691 1564 690 1620 689 1675 688 1730 686 1786 685 1841 684 1897 682 1952 680 2007 678 2063 676 2118 673 2174 670" 
+                    HPOS="1059"
+                    VPOS="597"
+                    WIDTH="1112"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1064 654 1059 626 1403 635 1441 607 1516 635 1648 612 1752 635 1789 607 1846 621 1879 597 2166 597 2171 630 2166 687 2067 687 2048 706 1893 687 1865 710 1841 692 1719 692 1690 710 1215 696 1064 715"/></Shape>
+	    <String CONTENT="tel.Qant ce uirent lipluisor qi enleglisse"
+                    HPOS="1059"
+                    VPOS="597"
+                    WIDTH="1112"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l8"
+                    
+                    BASELINE="1066 780 1122 780 1178 780 1234 780 1290 780 1346 780 1402 778 1458 778 1514 776 1570 776 1626 774 1682 773 1738 772 1794 770 1850 768 1906 766 1962 766 2018 764 2074 762 2130 760 2186 758" 
+                    HPOS="1059"
+                    VPOS="706"
+                    WIDTH="1121"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1064 739 1059 720 1111 706 2180 715 2175 767 2095 772 1681 791 1064 776"/></Shape>
+	    <String CONTENT="estoient.ilsen esmerueillierent mout ne"
+                    HPOS="1059"
+                    VPOS="706"
+                    WIDTH="1121"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l10"
+                    
+                    BASELINE="1072 864 1126 864 1181 864 1236 864 1290 864 1345 864 1400 862 1454 862 1509 860 1564 860 1619 858 1673 858 1728 856 1783 855 1837 854 1892 852 1947 851 2001 850 2056 848 2111 848 2166 846" 
+                    HPOS="1064"
+                    VPOS="772"
+                    WIDTH="1093"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="1069 823 1064 795 1135 786 1681 795 1921 772 2152 772 2157 805 2152 880 2133 885 1069 889"/></Shape>
+	    <String CONTENT="ne loserent esueillier degrant piece:Et"
+                    HPOS="1064"
+                    VPOS="772"
+                    WIDTH="1093"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l12"
+                    
+                    BASELINE="1078 952 1136 952 1194 951 1252 950 1310 950 1368 950 1426 948 1484 948 1542 946 1600 945 1658 944 1716 942 1774 941 1832 940 1890 938 1948 936 2006 934 2064 934 2122 932 2180 930 2238 928" 
+                    HPOS="1069"
+                    VPOS="871"
+                    WIDTH="1168"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1073 913 1069 889 1116 875 1686 889 2232 871 2237 889 2232 946 2171 960 1752 946 1073 969"/></Shape>
+	    <String CONTENT="qant lespace de.ii.eures ou de.iii.fu tres"
+                    HPOS="1069"
+                    VPOS="871"
+                    WIDTH="1168"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l14"
+                    
+                    BASELINE="1066 1030 1121 1032 1177 1032 1233 1032 1289 1032 1345 1032 1400 1030 1456 1030 1512 1028 1568 1026 1624 1023 1679 1021 1735 1019 1791 1018 1847 1016 1903 1014 1958 1012 2014 1010 2070 1010 2126 1010 2182 1010" 
+                    HPOS="1064"
+                    VPOS="951"
+                    WIDTH="1116"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1064 988 1064 969 1158 955 1723 969 1912 951 2180 969 2175 1035 2086 1045 1850 1026 1756 1049 1332 1049 1248 1031 1064 1049"/></Shape>
+	    <String CONTENT="passee:illesueillierent.silidistrent.Sire"
+                    HPOS="1064"
+                    VPOS="951"
+                    WIDTH="1116"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l16"
+                    
+                    BASELINE="1082 1108 1140 1110 1199 1110 1258 1110 1317 1110 1376 1110 1434 1108 1493 1108 1552 1106 1611 1105 1670 1104 1728 1102 1787 1100 1846 1098 1905 1097 1964 1096 2022 1094 2081 1092 2140 1091 2199 1090 2258 1090" 
+                    HPOS="1073"
+                    VPOS="1031"
+                    WIDTH="1182"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1078 1068 1073 1049 1229 1035 1719 1049 1954 1031 2086 1049 2251 1031 2255 1049 2237 1130 2180 1111 1817 1130 1676 1130 1648 1111 1492 1130 1078 1125"/></Shape>
+	    <String CONTENT="eure est trespassee ꝯmandez lalecon alire:"
+                    HPOS="1073"
+                    VPOS="1031"
+                    WIDTH="1182"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l18"
+                    
+                    BASELINE="1066 1188 1123 1190 1181 1190 1238 1190 1296 1192 1354 1192 1411 1190 1469 1190 1526 1188 1584 1186 1642 1186 1699 1184 1757 1182 1814 1180 1872 1178 1930 1176 1987 1176 2045 1174 2102 1174 2160 1172 2218 1172" 
+                    HPOS="1064"
+                    VPOS="1111"
+                    WIDTH="1149"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1064 1148 1064 1120 1177 1115 1728 1130 2152 1111 2213 1130 2208 1210 2015 1186 1855 1186 1827 1205 1775 1191 1719 1214 1064 1205"/></Shape>
+	    <String CONTENT="car lipueples est lassez ennuiez desilon"
+                    HPOS="1064"
+                    VPOS="1111"
+                    WIDTH="1149"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l20"
+                    
+                    BASELINE="1082 1272 1139 1272 1196 1274 1253 1274 1310 1273 1367 1272 1424 1272 1481 1270 1538 1268 1595 1268 1652 1266 1709 1264 1766 1262 1823 1261 1880 1260 1937 1259 1994 1258 2051 1258 2108 1258 2165 1258 2222 1258" 
+                    HPOS="1073"
+                    VPOS="1195"
+                    WIDTH="1145"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1078 1233 1073 1210 1196 1195 1215 1210 2133 1195 2218 1219 2204 1290 1163 1280 1078 1299"/></Shape>
+	    <String CONTENT="ge demorance.Seinz ambroses lor respon"
+                    HPOS="1073"
+                    VPOS="1195"
+                    WIDTH="1145"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l22"
+                    
+                    BASELINE="1074 1356 1128 1356 1183 1356 1238 1356 1293 1356 1348 1356 1402 1355 1457 1354 1512 1353 1567 1352 1622 1350 1676 1348 1731 1348 1786 1346 1841 1345 1896 1342 1950 1342 2005 1340 2060 1338 2115 1337 2170 1336" 
+                    HPOS="1069"
+                    VPOS="1290"
+                    WIDTH="1097"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1073 1318 1069 1294 1205 1290 2166 1294 2161 1356 2081 1370 1120 1360 1073 1379"/></Shape>
+	    <String CONTENT="di.neuoz corrociez mie nenetroublez:"
+                    HPOS="1069"
+                    VPOS="1290"
+                    WIDTH="1097"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l24"
+                    
+                    BASELINE="1070 1442 1127 1440 1184 1440 1241 1440 1299 1438 1356 1436 1413 1435 1471 1433 1528 1431 1585 1430 1643 1428 1700 1426 1757 1424 1814 1423 1872 1422 1929 1420 1986 1420 2044 1418 2101 1418 2158 1418 2216 1420" 
+                    HPOS="1059"
+                    VPOS="1356"
+                    WIDTH="1154"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1064 1403 1059 1370 1200 1365 1629 1379 1808 1356 1888 1374 2208 1356 2213 1379 2213 1450 2166 1454 2124 1431 2086 1450 2058 1431 2001 1450 1766 1431 1709 1454 1653 1436 1596 1459 1064 1450"/></Shape>
+	    <String CONTENT="bien saciez qe mout ma ualu ce qe ie ein"
+                    HPOS="1059"
+                    VPOS="1356"
+                    WIDTH="1154"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l26"
+                    
+                    BASELINE="1086 1522 1142 1520 1198 1520 1254 1518 1310 1516 1366 1516 1422 1514 1478 1513 1534 1512 1590 1510 1646 1510 1702 1508 1758 1506 1814 1506 1870 1504 1926 1504 1982 1502 2038 1502 2094 1500 2150 1498 2206 1498" 
+                    HPOS="1078"
+                    VPOS="1440"
+                    WIDTH="1126"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1078 1483 1087 1450 1620 1459 2062 1440 2204 1459 2199 1520 2081 1534 1078 1534"/></Shape>
+	    <String CONTENT="si dormi:car nostre sires mademostre•I•"
+                    HPOS="1078"
+                    VPOS="1440"
+                    WIDTH="1126"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l28"
+                    
+                    BASELINE="1074 1608 1132 1606 1190 1605 1248 1604 1306 1602 1364 1601 1422 1600 1480 1598 1538 1597 1596 1596 1654 1594 1712 1594 1770 1592 1828 1590 1886 1590 1944 1590 2002 1588 2060 1588 2118 1588 2176 1588 2234 1588" 
+                    HPOS="1069"
+                    VPOS="1530"
+                    WIDTH="1163"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1073 1567 1069 1530 2227 1530 2232 1549 2227 1624 1073 1619"/></Shape>
+	    <String CONTENT="mout bel miracle.car seinz martins mes"
+                    HPOS="1069"
+                    VPOS="1530"
+                    WIDTH="1163"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l30"
+                    
+                    BASELINE="1080 1696 1136 1693 1192 1690 1248 1688 1304 1687 1360 1686 1416 1684 1472 1682 1528 1680 1584 1680 1641 1678 1697 1678 1753 1676 1809 1676 1865 1676 1921 1674 1977 1674 2033 1672 2089 1672 2145 1670 2202 1670" 
+                    HPOS="1073"
+                    VPOS="1610"
+                    WIDTH="1126"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1073 1657 1073 1619 2152 1610 2199 1629 2199 1704 1973 1685 1935 1704 1761 1690 1662 1709 1624 1690 1606 1709 1073 1709"/></Shape>
+	    <String CONTENT="freres qiarcheuesqes estoit detors est issuz"
+                    HPOS="1073"
+                    VPOS="1610"
+                    WIDTH="1126"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l32"
+                    
+                    BASELINE="1066 1774 1122 1774 1178 1773 1234 1772 1290 1772 1347 1770 1403 1770 1459 1770 1515 1768 1571 1768 1628 1766 1684 1766 1740 1766 1796 1764 1852 1764 1909 1763 1965 1762 2021 1762 2077 1760 2133 1760 2190 1758" 
+                    HPOS="1064"
+                    VPOS="1695"
+                    WIDTH="1126"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1064 1732 1064 1709 1318 1713 1337 1695 1441 1713 2119 1695 2190 1718 2185 1779 2152 1793 1064 1793"/></Shape>
+	    <String CONTENT="de ceste uie:iai iafait leseruice trestot"
+                    HPOS="1064"
+                    VPOS="1695"
+                    WIDTH="1126"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l34"
+                    
+                    BASELINE="1074 1858 1129 1856 1185 1855 1241 1854 1297 1854 1353 1852 1408 1852 1464 1852 1520 1850 1576 1850 1632 1850 1687 1848 1743 1848 1799 1848 1855 1846 1911 1846 1966 1846 2022 1844 2078 1844 2134 1842 2190 1842" 
+                    HPOS="1073"
+                    VPOS="1779"
+                    WIDTH="1117"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1073 1817 1083 1784 1191 1779 2185 1779 2190 1803 2185 1873 1323 1859 1073 1878"/></Shape>
+	    <String CONTENT="fors seulement lechapitiel qeuosmauez"
+                    HPOS="1073"
+                    VPOS="1779"
+                    WIDTH="1117"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l36"
+                    
+                    BASELINE="1070 1940 1127 1938 1184 1937 1241 1936 1298 1934 1356 1934 1413 1933 1470 1932 1527 1932 1584 1932 1642 1932 1699 1932 1756 1932 1813 1931 1870 1930 1928 1930 1985 1930 2042 1929 2099 1928 2156 1926 2214 1926" 
+                    HPOS="1064"
+                    VPOS="1859"
+                    WIDTH="1149"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1064 1902 1064 1869 1233 1864 2133 1859 2208 1869 2213 1888 2208 1944 2171 1953 1064 1949"/></Shape>
+	    <String CONTENT="tolu adire par ce qeuos mesuellastes. Dont"
+                    HPOS="1064"
+                    VPOS="1859"
+                    WIDTH="1149"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l38"
+                    
+                    BASELINE="1080 2028 1133 2026 1187 2024 1240 2023 1294 2022 1348 2022 1401 2020 1455 2020 1508 2020 1562 2018 1616 2018 1669 2018 1723 2018 1776 2018 1830 2016 1884 2016 1937 2016 1991 2016 2044 2014 2098 2014 2152 2012" 
+                    HPOS="1073"
+                    VPOS="1944"
+                    WIDTH="1074"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1078 1986 1073 1953 1412 1944 1959 1944 2147 1972 2142 2034 1078 2038"/></Shape>
+	    <String CONTENT="furent cil tuit esbahi ensamble.mout"
+                    HPOS="1073"
+                    VPOS="1944"
+                    WIDTH="1074"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l40"
+                    
+                    BASELINE="1074 2106 1129 2106 1185 2104 1241 2104 1297 2104 1353 2102 1408 2102 1464 2102 1520 2102 1576 2100 1632 2100 1687 2100 1743 2100 1799 2100 1855 2098 1911 2098 1966 2098 2022 2096 2078 2096 2134 2094 2190 2094" 
+                    HPOS="1073"
+                    VPOS="2029"
+                    WIDTH="1117"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1073 2066 1083 2034 1243 2029 2138 2029 2190 2052 2185 2123 1073 2123"/></Shape>
+	    <String CONTENT="sen esmeruellierent.si noterent le tens "
+                    HPOS="1073"
+                    VPOS="2029"
+                    WIDTH="1117"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l42"
+                    
+                    BASELINE="1064 2184 1119 2184 1175 2184 1231 2184 1287 2184 1343 2184 1398 2184 1454 2184 1510 2184 1566 2184 1622 2184 1677 2183 1733 2182 1789 2182 1845 2182 1901 2182 1956 2182 2012 2182 2068 2180 2124 2180 2180 2180" 
+                    HPOS="1059"
+                    VPOS="2118"
+                    WIDTH="1116"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1059 2142 1059 2118 2175 2123 2175 2208 1059 2203"/></Shape>
+	    <String CONTENT="leure qe ce auoit este fet:sitrouerent ꝑ"
+                    HPOS="1059"
+                    VPOS="2118"
+                    WIDTH="1116"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l43"
+                    
+                    BASELINE="1058 2272 1113 2269 1169 2267 1224 2266 1280 2264 1335 2262 1391 2262 1446 2262 1502 2260 1557 2260 1613 2260 1668 2260 1724 2260 1779 2260 1835 2260 1890 2260 1946 2260 2001 2260 2057 2260 2112 2260 2168 2260" 
+                    HPOS="1050"
+                    VPOS="2194"
+                    WIDTH="1116"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1050 2231 1050 2208 1102 2198 1516 2194 2124 2203 2166 2222 2161 2283 1219 2269 1050 2288"/></Shape>
+	    <String CONTENT="uerite qe tot ensi estoit lachose auenue."
+                    HPOS="1050"
+                    VPOS="2194"
+                    WIDTH="1116"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l46"
+                    
+                    BASELINE="1294 2344 1339 2344 1385 2344 1431 2342 1477 2342 1523 2342 1568 2342 1614 2342 1660 2342 1706 2342 1752 2342 1797 2342 1843 2342 1889 2342 1935 2342 1981 2342 2026 2342 2072 2342 2118 2341 2164 2340 2210 2340" 
+                    HPOS="1285"
+                    VPOS="2274"
+                    WIDTH="923"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1290 2302 1285 2274 2114 2274 2208 2297 2204 2363 1351 2349 1290 2368"/></Shape>
+	    <String CONTENT="out estoit cil preudom:seinz hom"
+                    HPOS="1285"
+                    VPOS="2274"
+                    WIDTH="923"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l47"
+                    
+                    BASELINE="1288 2428 1331 2428 1374 2428 1417 2426 1461 2426 1504 2426 1547 2425 1591 2424 1634 2424 1677 2424 1721 2422 1764 2422 1807 2422 1850 2422 1894 2420 1937 2420 1980 2420 2024 2420 2067 2418 2110 2418 2154 2418" 
+                    HPOS="1281"
+                    VPOS="2354"
+                    WIDTH="871"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1285 2387 1281 2363 1304 2354 1982 2354 2152 2377 2147 2443 2048 2443 2025 2424 1987 2443 1285 2429"/></Shape>
+	    <String CONTENT="beneurez encui trespassement"
+                    HPOS="1281"
+                    VPOS="2354"
+                    WIDTH="871"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1636107418723_728"
+                    
+                    BASELINE="1273 2506 1308 2506 1360 2506 1413 2506 1465 2505 1517 2504 1569 2504 1621 2503 1674 2502 1726 2501 1778 2500 1830 2500 1882 2498 1935 2498 1987 2498 2039 2498 2091 2498 2143 2500 2196 2500" 
+                    HPOS="1271"
+                    VPOS="2434"
+                    WIDTH="923"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1271 2467 1285 2434 2157 2434 2194 2457 2190 2514 2081 2504 2034 2523 1271 2509"/></Shape>
+	    <String CONTENT="de ceste uie.li seint home chantoi"
+                    HPOS="1271"
+                    VPOS="2434"
+                    WIDTH="923"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l51"
+                    
+                    BASELINE="1056 2580 1113 2582 1171 2584 1229 2584 1287 2584 1345 2584 1402 2584 1460 2584 1518 2584 1576 2582 1634 2582 1691 2582 1749 2580 1807 2580 1865 2580 1923 2579 1980 2578 2038 2578 2096 2580 2154 2580 2212 2580" 
+                    HPOS="1054"
+                    VPOS="2514"
+                    WIDTH="1154"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1054 2537 1054 2514 2204 2514 2208 2537 2204 2603 1054 2603"/></Shape>
+	    <String CONTENT="ent les compaignies des seinz angeles ses"
+                    HPOS="1054"
+                    VPOS="2514"
+                    WIDTH="1154"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l53"
+                    
+                    BASELINE="1066 2664 1121 2664 1177 2664 1233 2664 1289 2664 1345 2664 1400 2664 1456 2662 1512 2662 1568 2662 1624 2662 1679 2662 1735 2660 1791 2660 1847 2660 1903 2660 1958 2660 2014 2662 2070 2662 2126 2662 2182 2664" 
+                    HPOS="1064"
+                    VPOS="2599"
+                    WIDTH="1116"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1064 2622 1064 2599 2180 2608 2180 2688 1064 2683"/></Shape>
+	    <String CONTENT="leecoient.Et encontre cuiame totes les ce"
+                    HPOS="1064"
+                    VPOS="2599"
+                    WIDTH="1116"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l55"
+                    
+                    BASELINE="1074 2746 1130 2746 1186 2744 1243 2744 1299 2744 1356 2744 1412 2744 1468 2744 1525 2744 1581 2742 1638 2742 1694 2742 1750 2742 1807 2740 1863 2740 1920 2740 1976 2740 2032 2740 2089 2740 2145 2740 2202 2740" 
+                    HPOS="1069"
+                    VPOS="2674"
+                    WIDTH="1130"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1073 2707 1069 2679 1135 2674 1996 2674 2199 2697 2194 2763 1229 2749 1073 2768"/></Shape>
+	    <String CONTENT="lestieus uertuz uenoient:ꝑcui li deable"
+                    HPOS="1069"
+                    VPOS="2674"
+                    WIDTH="1130"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l57"
+                    
+                    BASELINE="1074 2832 1131 2832 1189 2830 1247 2830 1305 2830 1363 2830 1420 2829 1478 2828 1536 2828 1594 2828 1652 2828 1709 2828 1767 2828 1825 2828 1883 2828 1941 2828 1998 2828 2056 2828 2114 2828 2172 2828 2230 2828" 
+                    HPOS="1069"
+                    VPOS="2754"
+                    WIDTH="1158"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1073 2792 1069 2768 1092 2759 1332 2754 2095 2754 2222 2768 2227 2787 2222 2853 1959 2853 1940 2834 1883 2853 1817 2834 1784 2853 1624 2853 1606 2834 1582 2853 1521 2834 1073 2848"/></Shape>
+	    <String CONTENT="estoient confonduz.seinte eglisse enforcie"
+                    HPOS="1069"
+                    VPOS="2754"
+                    WIDTH="1158"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l59"
+                    
+                    BASELINE="1074 2918 1129 2916 1184 2914 1240 2912 1295 2912 1351 2910 1406 2910 1461 2910 1517 2910 1572 2910 1628 2910 1683 2910 1738 2910 1794 2911 1849 2912 1905 2912 1960 2912 2015 2912 2071 2912 2126 2912 2182 2912" 
+                    HPOS="1069"
+                    VPOS="2839"
+                    WIDTH="1111"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1073 2876 1069 2843 1186 2839 2109 2843 2175 2853 2180 2872 2175 2938 1073 2928"/></Shape>
+	    <String CONTENT="qi seint michiel recut ensamble oles an"
+                    HPOS="1069"
+                    VPOS="2839"
+                    WIDTH="1111"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l62"
+                    
+                    BASELINE="1078 3010 1133 3006 1188 3002 1243 3000 1298 2998 1354 2998 1409 2997 1464 2996 1519 2996 1574 2996 1630 2996 1685 2998 1740 2998 1795 2998 1850 2998 1906 2998 1961 2998 2016 2997 2071 2996 2126 2994 2182 2992" 
+                    HPOS="1069"
+                    VPOS="2928"
+                    WIDTH="1111"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1069 2970 1069 2928 2001 2928 2180 2952 2175 3008 2095 3022 1172 3008 1069 3027"/></Shape>
+	    <String CONTENT="geles.la mere nostre signor iesucrist qi roi"
+                    HPOS="1069"
+                    VPOS="2928"
+                    WIDTH="1111"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l63"
+                    
+                    BASELINE="1086 3086 1141 3084 1196 3082 1252 3082 1307 3080 1363 3080 1418 3080 1473 3078 1529 3078 1584 3078 1640 3078 1695 3078 1750 3078 1806 3078 1861 3078 1917 3078 1972 3078 2027 3078 2083 3076 2138 3076 2194 3074" 
+                    HPOS="1078"
+                    VPOS="3008"
+                    WIDTH="1107"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1083 3046 1078 3022 1172 3008 2180 3008 2185 3032 2175 3098 1083 3102"/></Shape>
+	    <String CONTENT="ne est de tote creature ensamble olaꝯpagnie"
+                    HPOS="1078"
+                    VPOS="3008"
+                    WIDTH="1107"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l65"
+                    
+                    BASELINE="1070 3162 1126 3160 1183 3160 1240 3159 1297 3158 1354 3158 1410 3158 1467 3158 1524 3156 1581 3156 1638 3156 1694 3156 1751 3158 1808 3158 1865 3158 1922 3158 1978 3160 2035 3160 2092 3162 2149 3163 2206 3164" 
+                    HPOS="1064"
+                    VPOS="3088"
+                    WIDTH="1140"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1069 3121 1069 3102 1135 3088 1996 3088 2190 3093 2204 3126 2199 3178 1064 3173"/></Shape>
+	    <String CONTENT="des seintes uirges.qiparadiz retient ensam"
+                    HPOS="1064"
+                    VPOS="3088"
+                    WIDTH="1140"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l67"
+                    
+                    BASELINE="994 3236 1053 3236 1112 3236 1172 3236 1231 3236 1291 3234 1350 3234 1409 3234 1469 3234 1528 3234 1588 3234 1647 3234 1706 3236 1766 3236 1825 3236 1885 3236 1944 3238 2003 3238 2063 3238 2122 3240 2182 3240" 
+                    HPOS="989"
+                    VPOS="3168"
+                    WIDTH="1191"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="993 3196 1219 3168 1949 3168 2175 3182 2180 3201 2175 3258 2142 3267 2044 3267 2020 3248 1629 3262 1601 3244 1332 3244 1266 3262 1087 3248 989 3267"/></Shape>
+	    <String CONTENT="ble ocels qi idemeinent grant ioie leesche en"
+                    HPOS="989"
+                    VPOS="3168"
+                    WIDTH="1191"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l69"
+                    
+                    BASELINE="1064 3318 1119 3318 1175 3316 1231 3316 1286 3316 1342 3316 1398 3316 1453 3316 1509 3316 1565 3316 1621 3316 1676 3318 1732 3318 1788 3318 1843 3320 1899 3320 1955 3320 2010 3322 2066 3322 2122 3322 2178 3324" 
+                    HPOS="1054"
+                    VPOS="3248"
+                    WIDTH="1121"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1059 3277 1087 3248 1982 3248 2171 3253 2175 3281 2171 3338 1054 3333"/></Shape>
+	    <String CONTENT="samble ole signor qidetote chose est sires "
+                    HPOS="1054"
+                    VPOS="3248"
+                    WIDTH="1121"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l71"
+                    
+                    BASELINE="1058 3408 1114 3406 1170 3404 1227 3402 1283 3402 1340 3400 1396 3400 1452 3400 1509 3400 1565 3400 1622 3400 1678 3400 1734 3400 1791 3402 1847 3402 1904 3402 1960 3402 2016 3401 2073 3400 2129 3399 2186 3398" 
+                    HPOS="1050"
+                    VPOS="3333"
+                    WIDTH="1135"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1054 3366 1050 3333 2157 3333 2185 3357 2180 3418 2138 3427 1120 3413 1054 3432"/></Shape>
+	    <String CONTENT="crieres.qiuit regne ꝑtoz les siecles des sie"
+                    HPOS="1050"
+                    VPOS="3333"
+                    WIDTH="1135"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l73"
+                    
+                    BASELINE="1066 3490 1124 3490 1182 3489 1240 3488 1298 3488 1357 3488 1415 3488 1473 3487 1531 3486 1589 3486 1648 3486 1706 3486 1764 3486 1822 3485 1880 3484 1939 3484 1997 3484 2055 3484 2113 3483 2171 3482 2230 3482" 
+                    HPOS="1059"
+                    VPOS="3413"
+                    WIDTH="1168"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1064 3451 1059 3413 2222 3413 2227 3441 2222 3507 1111 3493 1064 3512"/></Shape>
+	    <String CONTENT="cles emꝑmenable gloireou nos tuit puissōs"
+                    HPOS="1059"
+                    VPOS="3413"
+                    WIDTH="1168"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l75"
+                    
+                    BASELINE="1068 3572 1123 3570 1179 3568 1234 3568 1290 3566 1346 3566 1401 3566 1457 3566 1512 3566 1568 3566 1624 3568 1679 3568 1735 3568 1790 3570 1846 3570 1902 3570 1957 3572 2013 3572 2068 3572 2124 3572 2180 3574" 
+                    HPOS="1059"
+                    VPOS="3498"
+                    WIDTH="1116"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1064 3531 1064 3503 1111 3498 2171 3498 2175 3535 2171 3597 1841 3597 1799 3578 1733 3597 1695 3573 1629 3592 1582 3573 1554 3592 1497 3573 1149 3573 1059 3597"/></Shape>
+	    <String CONTENT="ꝑuenir.Amen. Ci ꝯmence latranslatiō"
+                    HPOS="1059"
+                    VPOS="3498"
+                    WIDTH="1116"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l77"
+                    
+                    BASELINE="1124 3636 1169 3638 1214 3640 1260 3644 1305 3644 1351 3646 1396 3648 1441 3648 1487 3650 1532 3650 1578 3650 1623 3650 1668 3650 1714 3650 1759 3650 1805 3650 1850 3650 1895 3650 1941 3650 1986 3650 2032 3648" 
+                    HPOS="1116"
+                    VPOS="3578"
+                    WIDTH="909"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1120 3597 1130 3578 1799 3578 2025 3606 1483 3597 1422 3658 1116 3658"/></Shape>
+	    <String CONTENT="del cors seint martin Euesque."
+                    HPOS="1116"
+                    VPOS="3578"
+                    WIDTH="909"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l80"
+                    
+                    BASELINE="1894 3742 1919 3740 1944 3739 1969 3738 1994 3738 2019 3738 2044 3738 2069 3740 2094 3740 2119 3740 2144 3740 2170 3738" 
+                    HPOS="1893"
+                    VPOS="3672"
+                    WIDTH="264"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1893 3700 1898 3677 2001 3672 2152 3677 2157 3696 2152 3761 1893 3766"/></Shape>
+	    <String CONTENT="pres ce qeli"
+                    HPOS="1893"
+                    VPOS="3672"
+                    WIDTH="264"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1636107399307_712"
+                    
+                    BASELINE="1895 3833 2001 3829 2117 3829 2184 3829" 
+                    HPOS="1888"
+                    VPOS="3757"
+                    WIDTH="292"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1888 3794 1888 3766 1916 3757 2175 3766 2180 3790 2180 3832 2157 3842 1888 3842"/></Shape>
+	    <String CONTENT="seinz hom"
+                    HPOS="1888"
+                    VPOS="3757"
+                    WIDTH="292"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l83"
+                    
+                    BASELINE="1902 3902 1927 3900 1952 3900 1977 3898 2003 3898 2028 3898 2053 3898 2078 3900 2104 3900 2129 3900 2154 3900 2180 3900" 
+                    HPOS="1893"
+                    VPOS="3837"
+                    WIDTH="282"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1898 3860 1898 3842 2157 3837 2175 3860 2171 3917 1893 3917"/></Shape>
+	    <String CONTENT="dont ie uos"
+                    HPOS="1893"
+                    VPOS="3837"
+                    WIDTH="282"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1636107394801_707"
+                    
+                    BASELINE="1908 3993 1967 3990 2025 3989 2082 3989 2143 3995 2195 3995" 
+                    HPOS="1902"
+                    VPOS="3912"
+                    WIDTH="292"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1902 3955 1902 3917 2128 3912 2190 3922 2194 3955 2171 3992 1902 3992"/></Shape>
+	    <String CONTENT="ai conte la"
+                    HPOS="1902"
+                    VPOS="3912"
+                    WIDTH="292"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1636107403771_717"
+                    
+                    BASELINE="1906 4055 2005 4065 2086 4065 2150 4068 2197 4066" 
+                    HPOS="1898"
+                    VPOS="3992"
+                    WIDTH="292"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1902 4016 1902 3997 1940 3992 2180 3997 2190 4025 2185 4068 2142 4082 1898 4072"/></Shape>
+	    <String CONTENT="uie futres"
+                    HPOS="1898"
+                    VPOS="3992"
+                    WIDTH="292"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l89"
+                    
+                    BASELINE="1900 4134 1925 4137 1951 4138 1976 4138 2002 4138 2027 4138 2053 4138 2078 4138 2104 4138 2129 4138 2155 4136 2180 4136 2206 4136" 
+                    HPOS="1898"
+                    VPOS="4072"
+                    WIDTH="306"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1898 4096 1926 4072 2204 4072 2194 4176 2124 4157 1898 4171"/></Shape>
+	    <String CONTENT="passez de cest"
+                    HPOS="1898"
+                    VPOS="4072"
+                    WIDTH="306"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1636107408049_722"
+                    
+                    BASELINE="1901 4233 1998 4232 2064 4233 2124 4238 2181 4236" 
+                    HPOS="1893"
+                    VPOS="4152"
+                    WIDTH="282"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1893 4195 1893 4171 1935 4157 2044 4171 2119 4152 2171 4171 2175 4237 2062 4251 1893 4232"/></Shape>
+	    <String CONTENT="mortel sie"
+                    HPOS="1893"
+                    VPOS="4152"
+                    WIDTH="282"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l93"
+                    
+                    BASELINE="1882 4318 1908 4316 1934 4314 1961 4313 1987 4310 2013 4309 2040 4308 2066 4308 2092 4308 2119 4308 2145 4308 2172 4308" 
+                    HPOS="1865"
+                    VPOS="4228"
+                    WIDTH="306"
+                    HEIGHT="400">
+            <Shape><Polygon POINTS="1869 4279 1865 4228 2171 4265 2171 4576 2133 4571 2072 4628 1987 4628 1930 4576 1869 4585"/></Shape>
+	    <String CONTENT="cle.lxiiii."
+                    HPOS="1865"
+                    VPOS="4228"
+                    WIDTH="306"
+                    HEIGHT="400"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2394"
+                   VPOS="168"
+                   WIDTH="1254"
+                   HEIGHT="5166"
+                   ID="TextRegion_1636107365351_698"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2394 168 3648 168 3648 5334 2394 5334"/></Shape>
+          
+          
+          <TextLine ID="r4l3"
+                    
+                    BASELINE="2466 580 2524 577 2582 576 2640 574 2698 574 2756 572 2814 574 2872 574 2930 574 2988 576 3047 578 3105 581 3163 585 3221 587 3279 591 3337 596 3395 600 3453 604 3511 611 3569 616 3628 622" 
+                    HPOS="2453"
+                    VPOS="367"
+                    WIDTH="1178"
+                    HEIGHT="268">
+            <Shape><Polygon POINTS="2458 541 2458 367 2618 371 2708 447 2750 423 2821 484 2952 484 3004 466 3094 386 3216 386 3329 499 3631 484 3626 607 3588 635 3259 626 3226 593 3127 621 3042 588 2656 583 2632 607 2595 588 2453 607"/></Shape>
+	    <String CONTENT="Anz tout droitement fu esleuez aarche"
+                    HPOS="2453"
+                    VPOS="367"
+                    WIDTH="1178"
+                    HEIGHT="268"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l5"
+                    
+                    BASELINE="2526 670 2580 666 2635 664 2690 662 2745 660 2800 660 2855 660 2910 661 2965 662 3020 665 3075 668 3129 670 3184 674 3239 678 3294 682 3349 686 3404 690 3459 695 3514 700 3569 703 3624 708" 
+                    HPOS="2514"
+                    VPOS="583"
+                    WIDTH="1107"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="2519 630 2519 588 2557 607 2595 588 2632 612 2656 588 2731 583 2858 588 2877 607 2910 588 3023 588 3127 621 3221 593 3259 626 3617 630 3621 668 3612 720 3018 701 2985 678 2726 673 2684 701 2599 696 2576 673 2514 682"/></Shape>
+	    <String CONTENT="uesqes detors uns seinz hom.debone uie"
+                    HPOS="2514"
+                    VPOS="583"
+                    WIDTH="1107"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l7"
+                    
+                    BASELINE="2506 766 2561 761 2617 757 2672 755 2728 752 2783 752 2839 750 2894 752 2950 752 3005 754 3061 755 3116 759 3172 760 3227 765 3283 769 3338 773 3394 776 3449 781 3505 786 3560 792 3616 796" 
+                    HPOS="2496"
+                    VPOS="678"
+                    WIDTH="1116"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="2500 725 2500 701 2783 706 2811 678 2882 678 3442 729 3612 725 3612 758 3607 809 3494 809 3461 786 3405 800 3367 781 3343 805 3230 800 3207 776 3108 795 3028 772 2496 781"/></Shape>
+	    <String CONTENT="qi perpetuus estoit apelez par non.Qant"
+                    HPOS="2496"
+                    VPOS="678"
+                    WIDTH="1116"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l9"
+                    
+                    BASELINE="2502 852 2559 849 2616 846 2673 843 2731 842 2788 840 2845 840 2903 840 2960 840 3017 842 3075 844 3132 845 3189 848 3246 852 3304 856 3361 858 3418 863 3476 868 3533 872 3590 876 3648 882" 
+                    HPOS="2496"
+                    VPOS="772"
+                    WIDTH="1149"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="2500 809 2500 781 2764 791 2783 772 3018 772 3051 791 3136 776 3183 800 3212 781 3235 805 3343 809 3447 791 3499 814 3602 814 3640 795 3645 842 3621 894 3084 875 3018 856 2496 861"/></Shape>
+	    <String CONTENT="il fu enla dignite enla signorie:il porpē"
+                    HPOS="2496"
+                    VPOS="772"
+                    WIDTH="1149"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l11"
+                    
+                    BASELINE="2512 930 2567 928 2623 925 2678 922 2734 922 2790 920 2845 920 2901 920 2956 922 3012 922 3068 924 3123 926 3179 928 3234 932 3290 936 3346 938 3401 943 3457 947 3512 952 3568 957 3624 964" 
+                    HPOS="2505"
+                    VPOS="856"
+                    WIDTH="1116"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="2510 889 2510 866 2618 856 3358 889 3452 875 3617 894 3621 922 3617 974 3456 974 3438 951 3419 969 3339 969 3277 946 2505 946"/></Shape>
+	    <String CONTENT="sa afere sor le cors seint martin plus hau"
+                    HPOS="2505"
+                    VPOS="856"
+                    WIDTH="1116"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l13"
+                    
+                    BASELINE="2500 1014 2555 1012 2610 1010 2665 1008 2720 1006 2775 1006 2830 1006 2885 1006 2940 1006 2995 1006 3050 1008 3105 1009 3160 1011 3215 1014 3270 1017 3325 1020 3380 1024 3435 1028 3490 1033 3545 1037 3600 1042" 
+                    HPOS="2486"
+                    VPOS="941"
+                    WIDTH="1112"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="2491 974 2491 946 2967 941 3066 960 3150 946 3240 965 3282 951 3579 965 3598 1002 3593 1054 2948 1026 2599 1035 2486 1017"/></Shape>
+	    <String CONTENT="te eglisse plus bele.qele ni estoit faite.Ce"
+                    HPOS="2486"
+                    VPOS="941"
+                    WIDTH="1112"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l15"
+                    
+                    BASELINE="2506 1096 2561 1094 2616 1094 2671 1092 2726 1092 2782 1092 2837 1090 2892 1090 2947 1090 3002 1090 3058 1092 3113 1092 3168 1094 3223 1096 3278 1098 3334 1101 3389 1105 3444 1109 3499 1113 3554 1118 3610 1124" 
+                    HPOS="2500"
+                    VPOS="1026"
+                    WIDTH="1107"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="2505 1054 2505 1026 3164 1031 3259 1049 3602 1049 3607 1082 3602 1130 3212 1130 3103 1111 2500 1120"/></Shape>
+	    <String CONTENT="fistil ꝑmolt grant estude.molt enauri"
+                    HPOS="2500"
+                    VPOS="1026"
+                    WIDTH="1107"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l17"
+                    
+                    BASELINE="2508 1178 2562 1176 2616 1174 2670 1174 2724 1172 2778 1172 2832 1171 2886 1170 2940 1170 2994 1172 3049 1172 3103 1173 3157 1174 3211 1176 3265 1179 3319 1182 3373 1185 3427 1188 3481 1193 3535 1198 3590 1204" 
+                    HPOS="2500"
+                    VPOS="1111"
+                    WIDTH="1088"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2500 1139 2514 1120 2703 1111 3197 1130 3310 1115 3584 1130 3588 1162 3584 1210 2995 1191 2500 1205"/></Shape>
+	    <String CONTENT="ons aparler ꝯment loeure fuparfaite "
+                    HPOS="2500"
+                    VPOS="1111"
+                    WIDTH="1088"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l19"
+                    
+                    BASELINE="2498 1260 2554 1258 2610 1258 2666 1256 2722 1255 2778 1254 2834 1254 2890 1254 2946 1254 3002 1255 3058 1256 3114 1256 3170 1258 3226 1260 3282 1262 3338 1264 3394 1266 3450 1270 3506 1274 3562 1277 3618 1280" 
+                    HPOS="2491"
+                    VPOS="1191"
+                    WIDTH="1126"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2496 1219 2496 1200 2769 1191 3230 1210 3395 1195 3612 1210 3617 1238 3612 1290 3306 1290 3287 1271 3131 1290 2938 1266 2491 1280"/></Shape>
+	    <String CONTENT="consomee:senous aplus haute chose racō"
+                    HPOS="2491"
+                    VPOS="1191"
+                    WIDTH="1126"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l21"
+                    
+                    BASELINE="2508 1340 2563 1338 2618 1335 2674 1334 2729 1332 2785 1332 2840 1332 2895 1332 2951 1332 3006 1334 3062 1335 3117 1338 3172 1340 3228 1342 3283 1345 3339 1349 3394 1351 3449 1354 3505 1359 3560 1363 3616 1366" 
+                    HPOS="2500"
+                    VPOS="1266"
+                    WIDTH="1112"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="2505 1299 2505 1280 2628 1266 3018 1290 3282 1280 3386 1299 3569 1290 3607 1299 3612 1327 3607 1379 3381 1379 3296 1351 3042 1370 2990 1346 2675 1337 2500 1360"/></Shape>
+	    <String CONTENT="ter dire:nauions propose ametre nostre"
+                    HPOS="2500"
+                    VPOS="1266"
+                    WIDTH="1112"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l23"
+                    
+                    BASELINE="2500 1426 2554 1423 2609 1420 2663 1419 2718 1418 2773 1416 2827 1416 2882 1416 2936 1416 2991 1418 3046 1418 3100 1420 3155 1422 3209 1424 3264 1426 3319 1430 3373 1432 3428 1435 3482 1438 3537 1441 3592 1444" 
+                    HPOS="2491"
+                    VPOS="1341"
+                    WIDTH="1097"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="2496 1384 2510 1360 2901 1341 3014 1351 3042 1374 3197 1356 3296 1356 3329 1379 3536 1370 3584 1379 3588 1403 3584 1459 3423 1440 3358 1440 3339 1459 3042 1436 2971 1450 2901 1431 2595 1450 2491 1426"/></Shape>
+	    <String CONTENT="entente.Qnͣt ele fu touteꝑfete ꝯsomee."
+                    HPOS="2491"
+                    VPOS="1341"
+                    WIDTH="1097"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l25"
+                    
+                    BASELINE="2512 1510 2567 1508 2622 1506 2678 1504 2733 1502 2789 1502 2844 1502 2899 1502 2955 1502 3010 1503 3066 1504 3121 1506 3176 1508 3232 1509 3287 1511 3343 1514 3398 1516 3453 1518 3509 1522 3564 1524 3620 1526" 
+                    HPOS="2505"
+                    VPOS="1436"
+                    WIDTH="1112"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="2510 1469 2510 1436 3070 1454 3423 1440 3612 1454 3617 1487 3612 1534 2505 1530"/></Shape>
+	    <String CONTENT="Li seinz archeuesqes mandatoz les uoisins"
+                    HPOS="2505"
+                    VPOS="1436"
+                    WIDTH="1112"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l27"
+                    
+                    BASELINE="2492 1594 2547 1592 2602 1590 2658 1589 2713 1588 2769 1588 2824 1586 2879 1586 2935 1586 2990 1588 3046 1588 3101 1590 3156 1591 3212 1592 3267 1595 3323 1597 3378 1600 3433 1602 3489 1606 3544 1610 3600 1614" 
+                    HPOS="2486"
+                    VPOS="1516"
+                    WIDTH="1112"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="2491 1553 2500 1530 2604 1516 2726 1539 3084 1520 3353 1544 3390 1525 3456 1544 3593 1539 3598 1572 3593 1624 2486 1614"/></Shape>
+	    <String CONTENT="euesqes toz les abbes les prestres les"
+                    HPOS="2486"
+                    VPOS="1516"
+                    WIDTH="1112"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l29"
+                    
+                    BASELINE="2508 1686 2563 1683 2618 1680 2673 1676 2728 1674 2783 1673 2838 1672 2893 1672 2948 1672 3003 1672 3058 1674 3113 1674 3168 1676 3223 1678 3278 1680 3333 1683 3388 1686 3443 1689 3498 1692 3553 1695 3608 1700" 
+                    HPOS="2500"
+                    VPOS="1610"
+                    WIDTH="1107"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2500 1647 2519 1614 3348 1610 3602 1624 3607 1662 3602 1709 2500 1704"/></Shape>
+	    <String CONTENT="clers delacontree por leglisse dedier beneir"
+                    HPOS="2500"
+                    VPOS="1610"
+                    WIDTH="1107"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l31"
+                    
+                    BASELINE="2504 1768 2559 1766 2614 1766 2669 1764 2724 1762 2779 1762 2834 1762 2889 1760 2944 1760 2999 1760 3054 1762 3109 1762 3164 1762 3219 1764 3274 1766 3329 1768 3384 1770 3439 1773 3494 1777 3549 1779 3604 1784" 
+                    HPOS="2496"
+                    VPOS="1695"
+                    WIDTH="1106"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="2500 1727 2500 1709 2623 1695 2910 1695 2995 1713 3343 1699 3598 1713 3602 1742 3598 1784 3560 1793 2981 1793 2811 1775 2496 1789"/></Shape>
+	    <String CONTENT="por lecors de saint martin oster dela ou"
+                    HPOS="2496"
+                    VPOS="1695"
+                    WIDTH="1106"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l33"
+                    
+                    BASELINE="2516 1844 2570 1844 2624 1844 2678 1844 2733 1844 2787 1844 2841 1844 2896 1843 2950 1842 3004 1842 3059 1842 3113 1843 3167 1844 3221 1844 3276 1846 3330 1848 3384 1850 3439 1852 3493 1855 3547 1860 3602 1864" 
+                    HPOS="2510"
+                    VPOS="1779"
+                    WIDTH="1088"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2514 1803 2519 1784 2580 1779 3358 1779 3593 1789 3598 1822 3593 1873 2510 1869"/></Shape>
+	    <String CONTENT="il estoit enfoiz metre enautre leu agnͣt"
+                    HPOS="2510"
+                    VPOS="1779"
+                    WIDTH="1088"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l35"
+                    
+                    BASELINE="2502 1932 2555 1930 2609 1930 2663 1928 2717 1928 2771 1928 2825 1928 2879 1928 2933 1928 2987 1928 3041 1928 3094 1928 3148 1929 3202 1930 3256 1932 3310 1932 3364 1934 3418 1934 3472 1936 3526 1939 3580 1940" 
+                    HPOS="2496"
+                    VPOS="1864"
+                    WIDTH="1083"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2496 1892 2496 1869 2628 1864 3386 1864 3565 1869 3579 1902 3565 1958 2496 1953"/></Shape>
+	    <String CONTENT="honeur agrant ioie agrant segnorie"
+                    HPOS="2496"
+                    VPOS="1864"
+                    WIDTH="1083"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l37"
+                    
+                    BASELINE="2494 2016 2548 2015 2602 2014 2656 2012 2711 2012 2765 2012 2819 2010 2874 2010 2928 2010 2982 2011 3037 2012 3091 2012 3145 2014 3199 2014 3254 2016 3308 2017 3362 2019 3417 2022 3471 2024 3525 2026 3580 2028" 
+                    HPOS="2486"
+                    VPOS="1949"
+                    WIDTH="1093"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="2486 1977 2486 1958 2514 1953 3358 1949 3574 1958 3579 1986 3574 2038 2486 2024"/></Shape>
+	    <String CONTENT="sicom droiz estoit.Et por ce uoloit libons"
+                    HPOS="2486"
+                    VPOS="1949"
+                    WIDTH="1093"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l39"
+                    
+                    BASELINE="2504 2098 2558 2098 2612 2098 2666 2098 2721 2098 2775 2098 2829 2098 2884 2098 2938 2098 2992 2098 3047 2096 3101 2096 3155 2098 3209 2098 3264 2098 3318 2098 3372 2100 3427 2102 3481 2103 3535 2106 3590 2108" 
+                    HPOS="2496"
+                    VPOS="2024"
+                    WIDTH="1092"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2500 2057 2500 2024 3216 2024 3584 2038 3588 2066 3574 2118 2496 2114"/></Shape>
+	    <String CONTENT="archeuesqes qe ceste translation fust fete"
+                    HPOS="2496"
+                    VPOS="2024"
+                    WIDTH="1092"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l41"
+                    
+                    BASELINE="2496 2182 2550 2182 2604 2180 2658 2180 2712 2180 2766 2180 2820 2180 2874 2178 2928 2178 2982 2180 3037 2180 3091 2180 3145 2180 3199 2181 3253 2182 3307 2182 3361 2184 3415 2185 3469 2186 3523 2188 3578 2188" 
+                    HPOS="2486"
+                    VPOS="2109"
+                    WIDTH="1088"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2491 2142 2496 2114 2529 2109 3390 2109 3569 2123 3574 2147 3569 2198 3485 2208 2486 2208"/></Shape>
+	    <String CONTENT="leior des premieres kalendes de Juignet."
+                    HPOS="2486"
+                    VPOS="2109"
+                    WIDTH="1088"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l44"
+                    
+                    BASELINE="2492 2266 2547 2264 2602 2262 2658 2261 2713 2260 2769 2260 2824 2260 2879 2260 2935 2260 2990 2260 3046 2260 3101 2261 3156 2262 3212 2262 3267 2264 3323 2266 3378 2266 3433 2269 3489 2270 3544 2272 3600 2274" 
+                    HPOS="2486"
+                    VPOS="2198"
+                    WIDTH="1112"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2486 2227 2486 2208 2524 2198 3579 2198 3598 2231 3593 2283 2486 2283"/></Shape>
+	    <String CONTENT="Il ueillierent lanuit deuant.qant uint"
+                    HPOS="2486"
+                    VPOS="2198"
+                    WIDTH="1112"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l45"
+                    
+                    BASELINE="2508 2342 2560 2342 2613 2340 2665 2340 2718 2340 2771 2338 2823 2338 2876 2338 2928 2338 2981 2338 3034 2340 3086 2340 3139 2340 3191 2342 3244 2342 3297 2344 3349 2346 3402 2348 3454 2349 3507 2352 3560 2354" 
+                    HPOS="2500"
+                    VPOS="2278"
+                    WIDTH="1055"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2505 2302 2519 2283 3466 2278 3551 2288 3555 2311 3551 2363 3494 2368 3381 2349 3310 2368 3042 2368 3014 2349 2924 2368 2844 2349 2500 2368"/></Shape>
+	    <String CONTENT="lamatinee.il ꝯmencierent afoir laterre"
+                    HPOS="2500"
+                    VPOS="2278"
+                    WIDTH="1055"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l48"
+                    
+                    BASELINE="2504 2430 2558 2428 2613 2426 2667 2424 2722 2423 2777 2422 2831 2422 2886 2420 2940 2420 2995 2420 3050 2422 3104 2422 3159 2422 3213 2422 3268 2424 3323 2426 3377 2426 3432 2427 3486 2428 3541 2430 3596 2432" 
+                    HPOS="2496"
+                    VPOS="2354"
+                    WIDTH="1097"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2496 2391 2496 2368 2599 2354 3405 2354 3588 2368 3593 2391 3588 2448 2496 2448"/></Shape>
+	    <String CONTENT="qi estoit deseur lesarqu:puis si misent"
+                    HPOS="2496"
+                    VPOS="2354"
+                    WIDTH="1097"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l50"
+                    
+                    BASELINE="2500 2504 2555 2502 2610 2502 2665 2502 2720 2500 2776 2500 2831 2500 2886 2500 2941 2501 2996 2502 3052 2502 3107 2502 3162 2503 3217 2504 3272 2504 3328 2506 3383 2506 3438 2506 3493 2506 3548 2508 3604 2508" 
+                    HPOS="2491"
+                    VPOS="2438"
+                    WIDTH="1111"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2496 2462 2496 2443 3504 2438 3598 2448 3602 2467 3598 2523 3574 2528 2491 2528"/></Shape>
+	    <String CONTENT="lor meins tot entor por leuer leamont por"
+                    HPOS="2491"
+                    VPOS="2438"
+                    WIDTH="1111"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l52"
+                    
+                    BASELINE="2500 2584 2555 2582 2610 2582 2666 2582 2721 2582 2777 2582 2832 2582 2887 2582 2943 2583 2998 2584 3054 2584 3109 2586 3164 2587 3220 2588 3275 2590 3331 2590 3386 2592 3441 2592 3497 2592 3552 2592 3608 2594" 
+                    HPOS="2491"
+                    VPOS="2523"
+                    WIDTH="1116"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2496 2542 2571 2523 3244 2523 3602 2533 3607 2551 3588 2608 2491 2608"/></Shape>
+	    <String CONTENT="remuer le.Mes onqes ne sorent tant pener"
+                    HPOS="2491"
+                    VPOS="2523"
+                    WIDTH="1116"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l54"
+                    
+                    BASELINE="2496 2664 2548 2664 2601 2664 2654 2664 2707 2664 2760 2664 2812 2664 2865 2664 2918 2664 2971 2664 3024 2664 3076 2666 3129 2666 3182 2666 3235 2668 3288 2668 3340 2668 3393 2668 3446 2668 3499 2670 3552 2670" 
+                    HPOS="2486"
+                    VPOS="2603"
+                    WIDTH="1065"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2491 2622 2646 2603 3221 2603 3546 2613 3551 2631 3546 2688 2486 2688"/></Shape>
+	    <String CONTENT="netraueillier qil le peussent remouoir"
+                    HPOS="2486"
+                    VPOS="2603"
+                    WIDTH="1065"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l56"
+                    
+                    BASELINE="2500 2746 2554 2746 2608 2745 2662 2744 2716 2744 2771 2744 2825 2744 2879 2746 2933 2746 2987 2746 3042 2747 3096 2748 3150 2748 3204 2750 3258 2750 3313 2750 3367 2750 3421 2750 3475 2752 3529 2752 3584 2750" 
+                    HPOS="2491"
+                    VPOS="2679"
+                    WIDTH="1088"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2496 2707 2496 2688 2529 2683 3433 2679 3560 2688 3579 2712 3574 2759 3546 2773 2491 2773"/></Shape>
+	    <String CONTENT="ennule maniere. Dont furent molt dolenz"
+                    HPOS="2491"
+                    VPOS="2679"
+                    WIDTH="1088"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l58"
+                    
+                    BASELINE="2490 2832 2545 2831 2601 2830 2657 2830 2713 2830 2769 2830 2824 2830 2880 2830 2936 2830 2992 2830 3048 2830 3103 2830 3159 2830 3215 2832 3271 2832 3327 2832 3382 2832 3438 2832 3494 2832 3550 2832 3606 2832" 
+                    HPOS="2486"
+                    VPOS="2768"
+                    WIDTH="1116"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2486 2792 2547 2773 3602 2768 3602 2857 3471 2843 3452 2862 3244 2862 3226 2843 3117 2843 3089 2862 2849 2862 2802 2843 2774 2862 2486 2862"/></Shape>
+	    <String CONTENT="silessierent trespasser leior tresqa la nuit"
+                    HPOS="2486"
+                    VPOS="2768"
+                    WIDTH="1116"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l60"
+                    
+                    BASELINE="2504 2912 2558 2912 2612 2910 2666 2910 2720 2910 2774 2910 2828 2910 2882 2910 2936 2910 2990 2912 3044 2912 3098 2914 3152 2914 3206 2914 3260 2916 3314 2916 3368 2916 3422 2916 3476 2916 3530 2914 3584 2914" 
+                    HPOS="2496"
+                    VPOS="2843"
+                    WIDTH="1083"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="2500 2872 2792 2843 3574 2843 3579 2872 3565 2938 3292 2938 3263 2919 3197 2919 3179 2938 2821 2938 2778 2919 2618 2938 2547 2919 2496 2938"/></Shape>
+	    <String CONTENT="qiuenoit. Etcele meisme nuit reuellierēt"
+                    HPOS="2496"
+                    VPOS="2843"
+                    WIDTH="1083"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l61"
+                    
+                    BASELINE="2504 2996 2556 2996 2609 2998 2662 2998 2715 2998 2768 2998 2820 2998 2873 2998 2926 2998 2979 2998 3032 2998 3084 2998 3137 2998 3190 2998 3243 2998 3296 2998 3348 2998 3401 2998 3454 2998 3507 2998 3560 2998" 
+                    HPOS="2500"
+                    VPOS="2933"
+                    WIDTH="1055"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="2500 2956 2533 2933 3555 2938 3555 3013 3518 3022 2500 3022"/></Shape>
+	    <String CONTENT="iltoute tresqa lamatinee. Donc siressaie"
+                    HPOS="2500"
+                    VPOS="2933"
+                    WIDTH="1055"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l64"
+                    
+                    BASELINE="2484 3078 2538 3080 2593 3080 2648 3080 2703 3080 2758 3080 2812 3080 2867 3082 2922 3082 2977 3082 3032 3082 3086 3082 3141 3082 3196 3082 3251 3082 3306 3082 3360 3082 3415 3082 3470 3081 3525 3080 3580 3080" 
+                    HPOS="2482"
+                    VPOS="3008"
+                    WIDTH="1097"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2482 3036 2482 3008 3574 3008 3579 3041 3574 3093 3551 3102 2482 3107"/></Shape>
+	    <String CONTENT="rent silporoient leseint cors atot lesarqu"
+                    HPOS="2482"
+                    VPOS="3008"
+                    WIDTH="1097"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l66"
+                    
+                    BASELINE="2504 3168 2555 3166 2606 3166 2657 3166 2709 3166 2760 3166 2811 3166 2863 3164 2914 3164 2965 3164 3017 3163 3068 3162 3119 3162 3170 3162 3222 3160 3273 3160 3324 3160 3376 3158 3427 3158 3478 3157 3530 3156" 
+                    HPOS="2496"
+                    VPOS="3093"
+                    WIDTH="1031"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2500 3126 2496 3107 2529 3102 3089 3093 3419 3093 3527 3116 3522 3173 3113 3173 3056 3116 2500 3116"/></Shape>
+	    <String CONTENT="remouoir neamont treire.Lors furent"
+                    HPOS="2496"
+                    VPOS="3093"
+                    WIDTH="1031"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l68"
+                    
+                    BASELINE="2484 3250 2537 3248 2591 3248 2644 3246 2698 3246 2751 3244 2805 3244 2858 3244 2912 3244 2965 3242 3019 3242 3072 3242 3126 3242 3179 3242 3233 3240 3286 3240 3340 3240 3393 3238 3447 3237 3500 3236 3554 3234" 
+                    HPOS="2477"
+                    VPOS="3187"
+                    WIDTH="1069"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2477 3211 2500 3187 3546 3192 3541 3262 2477 3272"/></Shape>
+	    <String CONTENT="molt dolenz molt espoentez.car il nele"
+                    HPOS="2477"
+                    VPOS="3187"
+                    WIDTH="1069"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l70"
+                    
+                    BASELINE="2500 3330 2554 3328 2608 3328 2663 3328 2717 3328 2772 3328 2826 3326 2880 3326 2935 3326 2989 3326 3044 3326 3098 3326 3152 3326 3207 3326 3261 3324 3316 3324 3370 3322 3424 3320 3479 3318 3533 3316 3588 3314" 
+                    HPOS="2491"
+                    VPOS="3267"
+                    WIDTH="1088"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="2491 3291 2491 3272 2538 3267 3579 3272 2491 3277"/></Shape>
+	    <String CONTENT="pooient mouoir nene sauoient qil en pe"
+                    HPOS="2491"
+                    VPOS="3267"
+                    WIDTH="1088"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l72"
+                    
+                    BASELINE="2510 3408 2564 3408 2619 3408 2673 3408 2728 3408 2783 3408 2837 3408 2892 3408 2946 3408 3001 3408 3056 3408 3110 3408 3165 3408 3219 3406 3274 3406 3329 3404 3383 3403 3438 3401 3492 3398 3547 3396 3602 3394" 
+                    HPOS="2500"
+                    VPOS="3338"
+                    WIDTH="1093"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2505 3366 2500 3352 2547 3342 2703 3338 3593 3352 3588 3413 3438 3432 3367 3413 3296 3432 2811 3432 2792 3413 2759 3432 2505 3432"/></Shape>
+	    <String CONTENT="ussent fere.Dont ꝑla uns des clers qi la estoi"
+                    HPOS="2500"
+                    VPOS="3338"
+                    WIDTH="1093"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l74"
+                    
+                    BASELINE="2500 3488 2552 3488 2605 3488 2657 3488 2710 3488 2762 3488 2815 3488 2867 3488 2920 3488 2972 3488 3025 3488 3077 3486 3130 3486 3182 3486 3235 3486 3287 3486 3340 3486 3392 3486 3445 3486 3497 3486 3550 3486" 
+                    HPOS="2496"
+                    VPOS="3422"
+                    WIDTH="1050"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="2496 3446 2684 3422 3546 3427 3546 3512 2496 3517"/></Shape>
+	    <String CONTENT="ent sidist.Dont ne sauez uosbeau sig"
+                    HPOS="2496"
+                    VPOS="3422"
+                    WIDTH="1050"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l76"
+                    
+                    BASELINE="2500 3576 2553 3576 2607 3574 2661 3574 2715 3574 2769 3572 2822 3572 2876 3572 2930 3572 2984 3572 3038 3572 3091 3572 3145 3572 3199 3570 3253 3570 3307 3570 3360 3570 3414 3568 3468 3567 3522 3566 3576 3564" 
+                    HPOS="2496"
+                    VPOS="3503"
+                    WIDTH="1073"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="2496 3535 2500 3507 2604 3503 3565 3503 3569 3521 3565 3583 3438 3597 3047 3583 2496 3601"/></Shape>
+	    <String CONTENT="nors qe tresqa tierz ior sera la feste delior qil"
+                    HPOS="2496"
+                    VPOS="3503"
+                    WIDTH="1073"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l78"
+                    
+                    BASELINE="2490 3658 2545 3658 2600 3658 2655 3658 2710 3658 2766 3658 2821 3658 2876 3660 2931 3660 2986 3660 3042 3660 3097 3660 3152 3660 3207 3660 3262 3658 3318 3657 3373 3655 3428 3652 3483 3649 3538 3647 3594 3642" 
+                    HPOS="2482"
+                    VPOS="3597"
+                    WIDTH="1106"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="2486 3616 2482 3601 2519 3597 3588 3601 3584 3630 3414 3634 3372 3601 2486 3606"/></Shape>
+	    <String CONTENT="recut larceuesqie.ceste feste auoit il acostu"
+                    HPOS="2482"
+                    VPOS="3597"
+                    WIDTH="1106"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l79"
+                    
+                    BASELINE="2492 3740 2546 3740 2600 3740 2654 3740 2708 3740 2762 3740 2816 3740 2870 3740 2924 3740 2978 3740 3033 3740 3087 3738 3141 3738 3195 3738 3249 3736 3303 3736 3357 3734 3411 3732 3465 3730 3519 3728 3574 3726" 
+                    HPOS="2486"
+                    VPOS="3667"
+                    WIDTH="1083"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2491 3700 2486 3681 2628 3667 3565 3667 3569 3686 3565 3743 3513 3752 3306 3743 3282 3761 3174 3761 3141 3743 3033 3743 2491 3766"/></Shape>
+	    <String CONTENT="me afeire. par auenture tresqa ce ior.ne uelt"
+                    HPOS="2486"
+                    VPOS="3667"
+                    WIDTH="1083"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l82"
+                    
+                    BASELINE="2504 3824 2557 3824 2610 3822 2663 3822 2716 3822 2769 3821 2822 3820 2875 3820 2928 3820 2981 3820 3034 3820 3087 3820 3140 3820 3193 3820 3246 3818 3299 3818 3352 3816 3405 3816 3458 3814 3511 3811 3564 3808" 
+                    HPOS="2496"
+                    VPOS="3747"
+                    WIDTH="1059"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2500 3785 2496 3766 2524 3752 3400 3766 3551 3747 3555 3766 3551 3823 3513 3837 2500 3832"/></Shape>
+	    <String CONTENT="il con le remueue.Li euesqe li clergies qila"
+                    HPOS="2496"
+                    VPOS="3747"
+                    WIDTH="1059"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l84"
+                    
+                    BASELINE="2490 3906 2545 3906 2600 3906 2655 3906 2710 3906 2765 3906 2820 3906 2875 3906 2930 3906 2985 3904 3041 3904 3096 3904 3151 3904 3206 3902 3261 3901 3316 3900 3371 3899 3426 3896 3481 3894 3536 3892 3592 3888" 
+                    HPOS="2482"
+                    VPOS="3827"
+                    WIDTH="1102"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2486 3865 2482 3846 2538 3827 2557 3846 2877 3846 2915 3827 2967 3846 3037 3827 3438 3846 3579 3827 3584 3846 3579 3907 3522 3917 2486 3917"/></Shape>
+	    <String CONTENT="estoient assemblez:sasistrent aces ꝑoles.si"
+                    HPOS="2482"
+                    VPOS="3827"
+                    WIDTH="1102"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l86"
+                    
+                    BASELINE="2488 3990 2542 3990 2597 3990 2651 3990 2706 3992 2761 3992 2815 3990 2870 3990 2924 3990 2979 3990 3034 3989 3088 3988 3143 3988 3197 3986 3252 3985 3307 3982 3361 3981 3416 3980 3470 3978 3525 3974 3580 3972" 
+                    HPOS="2486"
+                    VPOS="3917"
+                    WIDTH="1088"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="2486 3950 2529 3917 2562 3936 3103 3936 3259 3917 3574 3931 2486 3936"/></Shape>
+	    <String CONTENT="ifurent tresqau tierz ior enieunes enori"
+                    HPOS="2486"
+                    VPOS="3917"
+                    WIDTH="1088"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l88"
+                    
+                    BASELINE="2506 4066 2560 4068 2615 4068 2670 4068 2724 4068 2779 4068 2834 4068 2888 4068 2943 4066 2998 4066 3053 4066 3107 4064 3162 4064 3217 4062 3271 4060 3326 4058 3381 4056 3435 4054 3490 4052 3545 4048 3600 4046" 
+                    HPOS="2505"
+                    VPOS="3997"
+                    WIDTH="1093"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="2505 4025 2510 3997 3598 4006 3598 4068 3471 4068 3447 4086 2505 4082"/></Shape>
+	    <String CONTENT="sons en uegiles.Etqant uint au qart ior."
+                    HPOS="2505"
+                    VPOS="3997"
+                    WIDTH="1093"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l90"
+                    
+                    BASELINE="2504 4150 2558 4150 2612 4150 2667 4150 2721 4150 2776 4148 2830 4148 2884 4148 2939 4146 2993 4146 3048 4144 3102 4142 3156 4142 3211 4140 3265 4138 3320 4137 3374 4134 3428 4132 3483 4129 3537 4126 3592 4124" 
+                    HPOS="2496"
+                    VPOS="4077"
+                    WIDTH="1088"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2500 4110 2496 4091 2529 4077 3584 4082 3579 4148 3419 4171 3358 4152 3221 4152 3179 4171 3047 4171 3023 4152 2990 4176 2500 4162"/></Shape>
+	    <String CONTENT="ilsaprochierent au sarqu ouli cors gisoit del"
+                    HPOS="2496"
+                    VPOS="4077"
+                    WIDTH="1088"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l91"
+                    
+                    BASELINE="2496 4232 2550 4232 2605 4232 2659 4232 2714 4232 2769 4232 2823 4232 2878 4232 2932 4231 2987 4230 3042 4230 3096 4228 3151 4228 3205 4226 3260 4224 3315 4222 3369 4220 3424 4217 3478 4215 3533 4212 3588 4208" 
+                    HPOS="2491"
+                    VPOS="4162"
+                    WIDTH="1088"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2491 4190 2505 4162 3579 4166 3574 4237 3527 4246 3197 4256 3070 4237 2491 4261"/></Shape>
+	    <String CONTENT="seint home.Si imistrent toz les meins por"
+                    HPOS="2491"
+                    VPOS="4162"
+                    WIDTH="1088"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r4l94"
+                    
+                    BASELINE="2494 4314 2547 4316 2601 4318 2655 4320 2708 4320 2762 4322 2816 4322 2869 4320 2923 4320 2977 4319 3031 4318 3084 4317 3138 4314 3192 4314 3245 4311 3299 4308 3353 4306 3406 4303 3460 4301 3514 4299 3568 4294" 
+                    HPOS="2486"
+                    VPOS="4246"
+                    WIDTH="1074"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="2491 4275 2486 4261 2971 4246 3560 4256 3555 4345 3438 4345 3409 4364 3362 4345 3325 4374 3075 4374 2976 4350 2708 4350 2656 4374 2595 4374 2571 4350 2491 4364"/></Shape>
+	    <String CONTENT="remouoir le por leuer le mesil ne porent."
+                    HPOS="2486"
+                    VPOS="4246"
+                    WIDTH="1074"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
