@@ -1,0 +1,6 @@
+Bnf_fr_412_Transkribus_simpleMask/alto-noRepoly/214_b088d_default.xml
+Bnf_fr_412_Transkribus_simpleMask/alto-noRepoly/215_3240a_default.xml
+Bnf_fr_412_Transkribus_simpleMask/alto-noRepoly/231_e1f4f_default.xml
+Bnf_fr_412_Transkribus_simpleMask/alto-noRepoly/232_7941d_default.xml
+Bnf_fr_412_Transkribus_simpleMask/alto-noRepoly/253_c4eb2_default.xml
+Bnf_fr_412_Transkribus_simpleMask/alto-noRepoly/254_206ab_default.xml

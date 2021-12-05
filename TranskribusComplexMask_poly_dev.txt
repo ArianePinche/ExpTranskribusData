@@ -1,0 +1,6 @@
+Bnf_fr_412_Transkribus_complexMask/alto-repoly/214_b088d_default.xml
+Bnf_fr_412_Transkribus_complexMask/alto-repoly/215_3240a_default.xml
+Bnf_fr_412_Transkribus_complexMask/alto-repoly/231_e1f4f_default.xml
+Bnf_fr_412_Transkribus_complexMask/alto-repoly/232_7941d_default.xml
+Bnf_fr_412_Transkribus_complexMask/alto-repoly/253_c4eb2_default.xml
+Bnf_fr_412_Transkribus_complexMask/alto-repoly/254_206ab_default.xml
